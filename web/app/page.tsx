@@ -13,8 +13,8 @@ export default function Home() {
               backgroundImage: `url('/images/maximalfocus-VT4rx775FT4-unsplash.jpg')`
             }}
           ></div>
-          <div className="absolute inset-0 bg-gradient-to-r from-blue-900/85 to-indigo-900/85"></div>
-          <div className="absolute inset-0 bg-black/20"></div>
+          <div className="absolute inset-0 bg-gradient-to-r from-blue-900/40 to-indigo-900/40"></div>
+          <div className="absolute inset-0 bg-black/10"></div>
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 lg:py-32">
           <div className="text-center animate-fade-in">
