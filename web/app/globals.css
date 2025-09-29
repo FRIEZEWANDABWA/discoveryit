@@ -36,10 +36,10 @@ body {
 
 @layer base {
   * {
-    @apply border-border;
+    @apply border-gray-200 dark:border-gray-700;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-white dark:bg-gray-900 text-gray-900 dark:text-white;
   }
 }
 
