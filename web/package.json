@@ -21,7 +21,9 @@
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.0",
     "lucide-react": "^0.290.0",
-    "next-themes": "^0.2.1"
+    "next-themes": "^0.2.1",
+    "clsx": "^2.0.0",
+    "class-variance-authority": "^0.7.0"
   },
   "devDependencies": {
     "eslint": "^8.52.0",
